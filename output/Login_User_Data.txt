@@ -1,0 +1,5 @@
+Admin admin@gmail.com 0 100.00 admin Admin admin123
+Apurv apurv@gmail.com 96 85.00 apurv Student 12345
+Dhruv dhruv@gmail.com 97 90.00 dhruv Student 12345
+Jay jay@gmail.com 98 95.00 jay Student 12345
+AAA aaa@gmail.com 50 55.00 aaa Student 12345
